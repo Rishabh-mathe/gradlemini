@@ -1,0 +1,35 @@
+buildscript {
+	ext.repos = {
+		maven {
+			url "${ARTIFACTORY_URL}/${PROXY_REPO_KEY}"
+			credentials {
+				username = "${ARTIFACTORY_USER}"
+				password = "${ARTIFACTORY_PASSWORD}"
+			}
+		}
+	}
+	repositories repos
+}
+
+plugins {
+	id 'java'
+    id 'maven-publish'
+    id 'eclipse-wtp'
+    id 'idea'
+    id 'war'
+}
+
+group = 'com.one'
+description = 'Dragon6Web'
+version = 'xyz'
+
+repositories repos
+
+dependencies {
+    implementation 'javax.servlet:javax.servlet-api:3.0.1'
+    implementation project(':Dao')
+}
+
+war {
+    archiveName "Dragon6Web.war"
+}

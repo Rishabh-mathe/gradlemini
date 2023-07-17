@@ -1,0 +1,29 @@
+buildscript {
+	ext.repos = {
+		maven {
+			url "${ARTIFACTORY_URL}/${PROXY_REPO_KEY}"
+			credentials {
+				username = "${ARTIFACTORY_USER}"
+				password = "${ARTIFACTORY_PASSWORD}"
+			}
+		}
+	}
+	repositories repos
+}
+
+plugins {
+	id 'java'
+    id 'maven-publish'
+    id 'eclipse-wtp'
+    id 'idea'
+
+}
+
+group = 'com.one'
+description = 'Dao'
+version = 'xyz'
+
+repositories repos
+
+dependencies {
+}

@@ -1,0 +1,50 @@
+buildscript {
+	ext.repos = {
+		maven {
+			url "${ARTIFACTORY_URL}/${PROXY_REPO_KEY}"
+			credentials {
+				username = "${ARTIFACTORY_USER}"
+				password = "${ARTIFACTORY_PASSWORD}"
+			}
+		}
+	}
+	repositories repos
+}
+
+plugins {
+	id 'java'
+    id 'maven-publish'
+    id 'eclipse-wtp'
+    id 'idea'
+    id 'ear'
+}
+
+group = 'com.one'
+description = 'Dragon6'
+version = 'xyz'
+
+
+repositories repos
+
+configurations{
+	earlib
+}
+
+dependencies {
+	earlib project(':Dao')
+    earlib 'javax.servlet:javax.servlet-api:3.0.1'
+    deploy project(path: ":Dragon6Web", configuration: "archives")
+        
+}
+
+ear{
+	archiveName = 'Dragon6.ear'
+    from ('src/main/webapps/META-INF/application.xml') {
+        into 'META-INF'
+    }
+}
+
+
+tasks.withType(JavaCompile) {
+    options.encoding = 'UTF-8'
+}

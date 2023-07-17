@@ -1,0 +1,2568 @@
+<OBJECT ID="0" MASK="F" TYPE_DESCR="ROOT_OBJECT" TYPE_ID="-1" ost="true">
+	<OBJECT ID="23388826813" MASK="F" TYPE_DESCR="Customer" TYPE_ID="12" ost="true">
+		<OBJECT ID="28354456013" MASK="F" TYPE_DESCR="QuoteTransaction" TYPE_ID="2356809" ost="true">
+			<OBJECT ID="28354456213" MASK="F" TYPE_DESCR="PolicyTransactionPolicy" TYPE_ID="2276904" ost="true">
+				<OBJECT ID="28555404p29604909p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Denis M Govorukhin
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590807p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Saroj Naik
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590707p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						53038500 Agency Producer
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8090846" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						4.30.2.DEV4
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31902446" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{"MONETARY_AMOUNT_VALUE":"0","DECIMAL_MARK":".","NEGATIVE_AMOUNT_STYLE_NAME":"Parentheses","CURRENCY_SYMBOL_SHORT":"$","DEFAULT_AMOUNT_FORMAT":"fmL999G999G999G999D00","DIGIT_GROUP_SEPARATOR":",","CURRENCY_CODE":"USD"}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211636" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						57405
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="504" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						20160401000100
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8146746" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="T" ost="true">
+					<VALUE>
+						Denis M Govorukhin
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="27360105p29253414p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Denis Govorukhin    
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Denis M Govorukhin : Generic Personal Auto : 04/01/2016 : 04/01/2017
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="210153" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						65
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31996746p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+			</OBJECT>
+		</OBJECT>
+	</OBJECT>
+	<OBJECT ID="27335928613" MASK="F" TYPE_DESCR="Customer" TYPE_ID="12" ost="true">
+		<OBJECT ID="28527679613" MASK="F" TYPE_DESCR="QuoteTransaction" TYPE_ID="2356809" ost="true">
+			<OBJECT ID="28527679813" MASK="F" TYPE_DESCR="PolicyTransactionPolicy" TYPE_ID="2276904" ost="true">
+				<OBJECT ID="28555404p29604909p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Denis z Govorukhin
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590807p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Saroj Naik
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590707p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						53038500 Agency Producer
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8090846" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						4.30.2.DEV4
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31902446" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{"MONETARY_AMOUNT_VALUE":"0","DECIMAL_MARK":".","NEGATIVE_AMOUNT_STYLE_NAME":"Parentheses","CURRENCY_SYMBOL_SHORT":"$","DEFAULT_AMOUNT_FORMAT":"fmL999G999G999G999D00","DIGIT_GROUP_SEPARATOR":",","CURRENCY_CODE":"USD"}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211636" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						57405
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="504" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						20161201000100
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8146746" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="T" ost="true">
+					<VALUE>
+						Denis z Govorukhin
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="27360105p29253414p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Denis Govorukhin    
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Denis z Govorukhin : Generic Personal Auto : 12/01/2016 : 12/01/2017
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="210153" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						15802
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31996746p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+			</OBJECT>
+		</OBJECT>
+	</OBJECT>
+	<OBJECT ID="28023729213" MASK="F" TYPE_DESCR="Customer" TYPE_ID="12" ost="true">
+		<OBJECT ID="28023731213" MASK="F" TYPE_DESCR="QuoteTransaction" TYPE_ID="2356809" ost="true">
+			<OBJECT ID="28023731413" MASK="F" TYPE_DESCR="PolicyTransactionPolicy" TYPE_ID="2276904" ost="true">
+				<OBJECT ID="28555404p29604909p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Rashmi Rashmi
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590807p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Steve Gueta
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590707p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Agency Producer
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8090846" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						ABC pvt. Ltd.
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31902446" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						2083.3464
+					</VALUE>
+					<DISPLAY_VALUE_TAG>
+						$ 2,083.35
+					</DISPLAY_VALUE_TAG>
+					<MD_VALUE_TAG>
+						{"MONETARY_AMOUNT_VALUE":"2083.3464","DECIMAL_MARK":".","NEGATIVE_AMOUNT_STYLE_NAME":"Parentheses","CURRENCY_SYMBOL_SHORT":"$","DEFAULT_AMOUNT_FORMAT":"fmL999G999G999G999D00","DIGIT_GROUP_SEPARATOR":",","CURRENCY_CODE":"USD"}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211636" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						57405
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="504" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						20161004000100
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8146746" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="T" ost="true">
+					<VALUE>
+						Rashmi Rashmi
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="27360105p29253414p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Rashmi Rashmi    
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Rashmi Rashmi : Generic Personal Auto : 10/04/2016 : 10/04/2017
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="210153" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						66
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31996746p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+			</OBJECT>
+		</OBJECT>
+	</OBJECT>
+	<OBJECT ID="28108905413" MASK="F" TYPE_DESCR="Customer" TYPE_ID="12" ost="true">
+		<OBJECT ID="28108907413" MASK="F" TYPE_DESCR="QuoteTransaction" TYPE_ID="2356809" ost="true">
+			<OBJECT ID="28108907613" MASK="F" TYPE_DESCR="PolicyTransactionPolicy" TYPE_ID="2276904" ost="true">
+				<OBJECT ID="28555404p29604909p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						chhavik BOP
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590807p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Steve Gueta
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590707p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Agency Prod
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8090846" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Chhavik 04SEP
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31902446" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{"MONETARY_AMOUNT_VALUE":"0","DECIMAL_MARK":".","NEGATIVE_AMOUNT_STYLE_NAME":"Parentheses","CURRENCY_SYMBOL_SHORT":"$","DEFAULT_AMOUNT_FORMAT":"fmL999G999G999G999D00","DIGIT_GROUP_SEPARATOR":",","CURRENCY_CODE":"USD"}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211636" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						102
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="504" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						20161001000100
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8146746" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="T" ost="true">
+					<VALUE>
+						chhavik BOP
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="27360105p29253414p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						chhavik BOP    
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						chhavik BOP : Generic Business Owners : 10/01/2016 : 10/01/2017
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="210153" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						65
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31996746p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+			</OBJECT>
+		</OBJECT>
+	</OBJECT>
+	<OBJECT ID="28149311413" MASK="F" TYPE_DESCR="Customer" TYPE_ID="12" ost="true">
+		<OBJECT ID="28149313413" MASK="F" TYPE_DESCR="QuoteTransaction" TYPE_ID="2356809" ost="true">
+			<OBJECT ID="28149313613" MASK="F" TYPE_DESCR="PolicyTransactionPolicy" TYPE_ID="2276904" ost="true">
+				<OBJECT ID="28555404p29604909p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Jon Carpenter
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590807p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Stephen Flemming
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590707p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						DEV1_user_ap Agent
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8090846" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						4.30.2.DEV1 Partner
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31902446" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						2126.9824
+					</VALUE>
+					<DISPLAY_VALUE_TAG>
+						$ 2,126.98
+					</DISPLAY_VALUE_TAG>
+					<MD_VALUE_TAG>
+						{"MONETARY_AMOUNT_VALUE":"2126.9824","DECIMAL_MARK":".","NEGATIVE_AMOUNT_STYLE_NAME":"Parentheses","CURRENCY_SYMBOL_SHORT":"$","DEFAULT_AMOUNT_FORMAT":"fmL999G999G999G999D00","DIGIT_GROUP_SEPARATOR":",","CURRENCY_CODE":"USD"}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211636" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						57405
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="504" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						20161020000100
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8146746" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="T" ost="true">
+					<VALUE>
+						Jon Carpenter
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="27360105p29253414p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Jon Carpenter    
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Jon Carpenter : Generic Personal Auto : 10/20/2016 : 10/20/2017
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="210153" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						22605
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31996746p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+			</OBJECT>
+		</OBJECT>
+	</OBJECT>
+	<OBJECT ID="28255736313" MASK="F" TYPE_DESCR="Customer" TYPE_ID="12" ost="true">
+		<OBJECT ID="28255738313" MASK="F" TYPE_DESCR="QuoteTransaction" TYPE_ID="2356809" ost="true">
+			<OBJECT ID="28255738513" MASK="F" TYPE_DESCR="PolicyTransactionPolicy" TYPE_ID="2276904" ost="true">
+				<OBJECT ID="28555404p29604909p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						S A
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590807p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Steve Gueta
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590707p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Agency Producer
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8090846" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						ABC pvt. Ltd.
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31902446" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{"MONETARY_AMOUNT_VALUE":"0","DECIMAL_MARK":".","NEGATIVE_AMOUNT_STYLE_NAME":"Parentheses","CURRENCY_SYMBOL_SHORT":"$","DEFAULT_AMOUNT_FORMAT":"fmL999G999G999G999D00","DIGIT_GROUP_SEPARATOR":",","CURRENCY_CODE":"USD"}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211636" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						57405
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="504" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						20161103000100
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8146746" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="T" ost="true">
+					<VALUE>
+						S A
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="27360105p29253414p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						S A    
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						S A : Generic Personal Auto : 11/03/2016 : 11/03/2017
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="210153" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						65
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31996746p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+			</OBJECT>
+		</OBJECT>
+	</OBJECT>
+	<OBJECT ID="28256357713" MASK="F" TYPE_DESCR="Customer" TYPE_ID="12" ost="true">
+		<OBJECT ID="28256359713" MASK="F" TYPE_DESCR="QuoteTransaction" TYPE_ID="2356809" ost="true">
+			<OBJECT ID="28256359913" MASK="F" TYPE_DESCR="PolicyTransactionPolicy" TYPE_ID="2276904" ost="true">
+				<OBJECT ID="28555404p29604909p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Saurabh Arora
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590807p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Steve Gueta
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590707p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Agency Producer
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8090846" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						ABC pvt. Ltd.
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31902446" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{"MONETARY_AMOUNT_VALUE":"0","DECIMAL_MARK":".","NEGATIVE_AMOUNT_STYLE_NAME":"Parentheses","CURRENCY_SYMBOL_SHORT":"$","DEFAULT_AMOUNT_FORMAT":"fmL999G999G999G999D00","DIGIT_GROUP_SEPARATOR":",","CURRENCY_CODE":"USD"}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211636" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						2805
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="504" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						20161103000100
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8146746" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="T" ost="true">
+					<VALUE>
+						Saurabh Arora
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="27360105p29253414p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Saurabh Arora    
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Saurabh Arora : Generic Commercial Package Policy : 11/03/2016 : 11/03/2017
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="210153" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						65
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31996746p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+			</OBJECT>
+		</OBJECT>
+	</OBJECT>
+	<OBJECT ID="28263720313" MASK="F" TYPE_DESCR="Customer" TYPE_ID="12" ost="true">
+		<OBJECT ID="28263722313" MASK="F" TYPE_DESCR="QuoteTransaction" TYPE_ID="2356809" ost="true">
+			<OBJECT ID="28263722513" MASK="F" TYPE_DESCR="PolicyTransactionPolicy" TYPE_ID="2276904" ost="true">
+				<OBJECT ID="28555404p29604909p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						chhavik Arora
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590807p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Steve Gueta
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590707p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Agency Prod
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8090846" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Chhavik 04SEP
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31902446" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{"MONETARY_AMOUNT_VALUE":"0","DECIMAL_MARK":".","NEGATIVE_AMOUNT_STYLE_NAME":"Parentheses","CURRENCY_SYMBOL_SHORT":"$","DEFAULT_AMOUNT_FORMAT":"fmL999G999G999G999D00","DIGIT_GROUP_SEPARATOR":",","CURRENCY_CODE":"USD"}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211636" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						102
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="504" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						20161118000100
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8146746" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="T" ost="true">
+					<VALUE>
+						chhavik Arora
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="27360105p29253414p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						chhavik Arora    
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						chhavik Arora : Generic Business Owners : 11/18/2016 : 11/01/2017
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="210153" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						15802
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31996746p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+			</OBJECT>
+		</OBJECT>
+	</OBJECT>
+	<OBJECT ID="28340191613" MASK="F" TYPE_DESCR="Customer" TYPE_ID="12" ost="true">
+		<OBJECT ID="28340193613" MASK="F" TYPE_DESCR="QuoteTransaction" TYPE_ID="2356809" ost="true">
+			<OBJECT ID="28340193813" MASK="F" TYPE_DESCR="PolicyTransactionPolicy" TYPE_ID="2276904" ost="true">
+				<OBJECT ID="28555404p29604909p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						123 1
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590807p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Surbhi Jain
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590707p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						DEV4_user_ap Agency Producer
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8090846" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						4.30.2.DEV4 New Partner
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31902446" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{"MONETARY_AMOUNT_VALUE":"0","DECIMAL_MARK":".","NEGATIVE_AMOUNT_STYLE_NAME":"Parentheses","CURRENCY_SYMBOL_SHORT":"$","DEFAULT_AMOUNT_FORMAT":"fmL999G999G999G999D00","DIGIT_GROUP_SEPARATOR":",","CURRENCY_CODE":"USD"}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211636" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						57405
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="504" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						20161118000100
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8146746" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="T" ost="true">
+					<VALUE>
+						123 1
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="27360105p29253414p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						123 1    
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						123 1 : Generic Personal Auto : 11/18/2016 : 11/18/2017
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="210153" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						65
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31996746p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+			</OBJECT>
+		</OBJECT>
+	</OBJECT>
+	<OBJECT ID="28477870113" MASK="F" TYPE_DESCR="Customer" TYPE_ID="12" ost="true">
+		<OBJECT ID="28477872113" MASK="F" TYPE_DESCR="QuoteTransaction" TYPE_ID="2356809" ost="true">
+			<OBJECT ID="28477872313" MASK="F" TYPE_DESCR="PolicyTransactionPolicy" TYPE_ID="2276904" ost="true">
+				<OBJECT ID="28555404p29604909p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Jill Cahill
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590807p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Steve Gueta
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590707p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Agency Prod
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8090846" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Chhavik 04SEP
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31902446" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{"MONETARY_AMOUNT_VALUE":"0","DECIMAL_MARK":".","NEGATIVE_AMOUNT_STYLE_NAME":"Parentheses","CURRENCY_SYMBOL_SHORT":"$","DEFAULT_AMOUNT_FORMAT":"fmL999G999G999G999D00","DIGIT_GROUP_SEPARATOR":",","CURRENCY_CODE":"USD"}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211636" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						57405
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="504" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						20161230000100
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8146746" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="T" ost="true">
+					<VALUE>
+						Jill Cahill
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="27360105p29253414p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Jill Cahill    
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Jill Cahill : Generic Personal Auto : 12/30/2016 : 12/30/2017
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="210153" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						65
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31996746p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+			</OBJECT>
+		</OBJECT>
+	</OBJECT>
+	<OBJECT ID="28483424213" MASK="F" TYPE_DESCR="Customer" TYPE_ID="12" ost="true">
+		<OBJECT ID="28483426213" MASK="F" TYPE_DESCR="QuoteTransaction" TYPE_ID="2356809" ost="true">
+			<OBJECT ID="28483426413" MASK="F" TYPE_DESCR="PolicyTransactionPolicy" TYPE_ID="2276904" ost="true">
+				<OBJECT ID="28555404p29604909p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						chhavik Arrr
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590807p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Steve Gueta
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590707p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Agency Prod
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8090846" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Chhavik 04SEP
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31902446" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{"MONETARY_AMOUNT_VALUE":"0","DECIMAL_MARK":".","NEGATIVE_AMOUNT_STYLE_NAME":"Parentheses","CURRENCY_SYMBOL_SHORT":"$","DEFAULT_AMOUNT_FORMAT":"fmL999G999G999G999D00","DIGIT_GROUP_SEPARATOR":",","CURRENCY_CODE":"USD"}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211636" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						57405
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="504" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						20161201000100
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8146746" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="T" ost="true">
+					<VALUE>
+						chhavik Arrr
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="27360105p29253414p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						chhavik Arrr    
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						chhavik Arrr : Generic Personal Auto : 12/01/2016 : 12/01/2017
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="210153" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						65
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31996746p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+			</OBJECT>
+		</OBJECT>
+	</OBJECT>
+	<OBJECT ID="28495027513" MASK="F" TYPE_DESCR="Customer" TYPE_ID="12" ost="true">
+		<OBJECT ID="28495029513" MASK="F" TYPE_DESCR="QuoteTransaction" TYPE_ID="2356809" ost="true">
+			<OBJECT ID="28495029713" MASK="F" TYPE_DESCR="PolicyTransactionPolicy" TYPE_ID="2276904" ost="true">
+				<OBJECT ID="28555404p29604909p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Jaime Laramie
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590807p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Steve Gueta
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590707p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Agency Prod
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8090846" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Chhavik 04SEP
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31902446" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{"MONETARY_AMOUNT_VALUE":"0","DECIMAL_MARK":".","NEGATIVE_AMOUNT_STYLE_NAME":"Parentheses","CURRENCY_SYMBOL_SHORT":"$","DEFAULT_AMOUNT_FORMAT":"fmL999G999G999G999D00","DIGIT_GROUP_SEPARATOR":",","CURRENCY_CODE":"USD"}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211636" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						57405
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="504" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						20161229000100
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8146746" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="T" ost="true">
+					<VALUE>
+						Jaime Laramie
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="27360105p29253414p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Jaime Laramie    
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Jaime Laramie : Generic Personal Auto : 12/29/2016 : 12/29/2017
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="210153" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						65
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31996746p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+			</OBJECT>
+		</OBJECT>
+	</OBJECT>
+	<OBJECT ID="28495118413" MASK="F" TYPE_DESCR="Customer" TYPE_ID="12" ost="true">
+		<OBJECT ID="28495120413" MASK="F" TYPE_DESCR="QuoteTransaction" TYPE_ID="2356809" ost="true">
+			<OBJECT ID="28495120613" MASK="F" TYPE_DESCR="PolicyTransactionPolicy" TYPE_ID="2276904" ost="true">
+				<OBJECT ID="28555404p29604909p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Narny Blarney
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590807p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Steve Gueta
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590707p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Agency Prod
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8090846" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Chhavik 04SEP
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31902446" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						2341.7079
+					</VALUE>
+					<DISPLAY_VALUE_TAG>
+						$ 2,341.71
+					</DISPLAY_VALUE_TAG>
+					<MD_VALUE_TAG>
+						{"MONETARY_AMOUNT_VALUE":"2341.708","DECIMAL_MARK":".","NEGATIVE_AMOUNT_STYLE_NAME":"Parentheses","CURRENCY_SYMBOL_SHORT":"$","DEFAULT_AMOUNT_FORMAT":"fmL999G999G999G999D00","DIGIT_GROUP_SEPARATOR":",","CURRENCY_CODE":"USD"}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211636" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						57405
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="504" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						20161222000100
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8146746" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="T" ost="true">
+					<VALUE>
+						Narny Blarney
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="27360105p29253414p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Narny Blarney    
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Narny Blarney : Generic Personal Auto : 12/22/2016 : 12/22/2017
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="210153" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						66
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31996746p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+			</OBJECT>
+		</OBJECT>
+	</OBJECT>
+	<OBJECT ID="28520970313" MASK="F" TYPE_DESCR="Customer" TYPE_ID="12" ost="true">
+		<OBJECT ID="28520972313" MASK="F" TYPE_DESCR="QuoteTransaction" TYPE_ID="2356809" ost="true">
+			<OBJECT ID="28520972513" MASK="F" TYPE_DESCR="PolicyTransactionPolicy" TYPE_ID="2276904" ost="true">
+				<OBJECT ID="28555404p29604909p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Test KK
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590807p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Steve Gueta
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590707p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Agency Producer
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8090846" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						ABC pvt. Ltd.
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31902446" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{"MONETARY_AMOUNT_VALUE":"0","DECIMAL_MARK":".","NEGATIVE_AMOUNT_STYLE_NAME":"Parentheses","CURRENCY_SYMBOL_SHORT":"$","DEFAULT_AMOUNT_FORMAT":"fmL999G999G999G999D00","DIGIT_GROUP_SEPARATOR":",","CURRENCY_CODE":"USD"}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211636" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						57405
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="504" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						20161219000100
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8146746" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="T" ost="true">
+					<VALUE>
+						Test KK
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="27360105p29253414p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Test KK    
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Test KK : Generic Personal Auto : 12/19/2016 : 12/19/2017
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="210153" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						65
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31996746p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+			</OBJECT>
+		</OBJECT>
+	</OBJECT>
+	<OBJECT ID="28520976813" MASK="F" TYPE_DESCR="Customer" TYPE_ID="12" ost="true">
+		<OBJECT ID="28520978813" MASK="F" TYPE_DESCR="QuoteTransaction" TYPE_ID="2356809" ost="true">
+			<OBJECT ID="28520979013" MASK="F" TYPE_DESCR="PolicyTransactionPolicy" TYPE_ID="2276904" ost="true">
+				<OBJECT ID="28555404p29604909p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						as asd
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590807p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Steve Gueta
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590707p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Agency Producer
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8090846" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						ABC pvt. Ltd.
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31902446" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{"MONETARY_AMOUNT_VALUE":"0","DECIMAL_MARK":".","NEGATIVE_AMOUNT_STYLE_NAME":"Parentheses","CURRENCY_SYMBOL_SHORT":"$","DEFAULT_AMOUNT_FORMAT":"fmL999G999G999G999D00","DIGIT_GROUP_SEPARATOR":",","CURRENCY_CODE":"USD"}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211636" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						57405
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="504" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						20161219000100
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8146746" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="T" ost="true">
+					<VALUE>
+						as asd
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="27360105p29253414p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						as test    
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						as test : Generic Personal Auto : 12/19/2016 : 12/19/2017
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="210153" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						65
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31996746p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+			</OBJECT>
+		</OBJECT>
+	</OBJECT>
+	<OBJECT ID="28540742713" MASK="F" TYPE_DESCR="Customer" TYPE_ID="12" ost="true">
+		<OBJECT ID="28540744713" MASK="F" TYPE_DESCR="QuoteTransaction" TYPE_ID="2356809" ost="true">
+			<OBJECT ID="28540744913" MASK="F" TYPE_DESCR="PolicyTransactionPolicy" TYPE_ID="2276904" ost="true">
+				<OBJECT ID="28555404p29604909p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						chhavik v_prefix issue
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590807p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Steve Gueta
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590707p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Agency Prod
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8090846" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Chhavik 04SEP
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31902446" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{"MONETARY_AMOUNT_VALUE":"0","DECIMAL_MARK":".","NEGATIVE_AMOUNT_STYLE_NAME":"Parentheses","CURRENCY_SYMBOL_SHORT":"$","DEFAULT_AMOUNT_FORMAT":"fmL999G999G999G999D00","DIGIT_GROUP_SEPARATOR":",","CURRENCY_CODE":"USD"}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211636" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						102
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="504" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						20161201000100
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8146746" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="T" ost="true">
+					<VALUE>
+						chhavik v_prefix issue
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="27360105p29253414p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						chhavik v_prefix issue    
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						chhavik v_prefix issue : Generic Business Owners : 12/01/2016 : 12/01/2017
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="210153" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						65
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31996746p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+			</OBJECT>
+		</OBJECT>
+	</OBJECT>
+	<OBJECT ID="28613109813" MASK="F" TYPE_DESCR="Customer" TYPE_ID="12" ost="true">
+		<OBJECT ID="28613111813" MASK="F" TYPE_DESCR="QuoteTransaction" TYPE_ID="2356809" ost="true">
+			<OBJECT ID="28613112013" MASK="F" TYPE_DESCR="PolicyTransactionPolicy" TYPE_ID="2276904" ost="true">
+				<OBJECT ID="28555404p29604909p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Paul HewsonNew
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590807p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Steve Gueta
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590707p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Agency Producer
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8090846" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						ABC pvt. Ltd.
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31902446" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{"MONETARY_AMOUNT_VALUE":"0","DECIMAL_MARK":".","NEGATIVE_AMOUNT_STYLE_NAME":"Parentheses","CURRENCY_SYMBOL_SHORT":"$","DEFAULT_AMOUNT_FORMAT":"fmL999G999G999G999D00","DIGIT_GROUP_SEPARATOR":",","CURRENCY_CODE":"USD"}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211636" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						2805
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="504" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						20170106000100
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8146746" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="T" ost="true">
+					<VALUE>
+						Paul HewsonNew
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="27360105p29253414p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Paul HewsonNew    
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Paul HewsonNew : Generic Commercial Package Policy : 01/06/2017 : 01/06/2018
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="210153" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						15802
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31996746p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+			</OBJECT>
+		</OBJECT>
+	</OBJECT>
+	<OBJECT ID="28678435313" MASK="F" TYPE_DESCR="Customer" TYPE_ID="12" ost="true">
+		<OBJECT ID="28678437313" MASK="F" TYPE_DESCR="QuoteTransaction" TYPE_ID="2356809" ost="true">
+			<OBJECT ID="28678437513" MASK="F" TYPE_DESCR="PolicyTransactionPolicy" TYPE_ID="2276904" ost="true">
+				<OBJECT ID="28555404p29604909p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Rimma SeasonDate
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590807p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Henry Glimpse
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590707p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Doug Coster
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8090846" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						GCNA Insurance Agency
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31902446" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						1773.349
+					</VALUE>
+					<DISPLAY_VALUE_TAG>
+						$ 1,773.35
+					</DISPLAY_VALUE_TAG>
+					<MD_VALUE_TAG>
+						{"MONETARY_AMOUNT_VALUE":"1773.349","DECIMAL_MARK":".","NEGATIVE_AMOUNT_STYLE_NAME":"Parentheses","CURRENCY_SYMBOL_SHORT":"$","DEFAULT_AMOUNT_FORMAT":"fmL999G999G999G999D00","DIGIT_GROUP_SEPARATOR":",","CURRENCY_CODE":"USD"}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211636" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						57405
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="504" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						20170407000100
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8146746" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="T" ost="true">
+					<VALUE>
+						Rimma SeasonDate
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="27360105p29253414p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Rimma SeasonDate    
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Rimma SeasonDate : Generic Personal Auto : 04/07/2017 : 05/27/2017
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="210153" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						24905
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31996746p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+			</OBJECT>
+		</OBJECT>
+	</OBJECT>
+	<OBJECT ID="28678449113" MASK="F" TYPE_DESCR="Customer" TYPE_ID="12" ost="true">
+		<OBJECT ID="28678451113" MASK="F" TYPE_DESCR="QuoteTransaction" TYPE_ID="2356809" ost="true">
+			<OBJECT ID="28678451313" MASK="F" TYPE_DESCR="PolicyTransactionPolicy" TYPE_ID="2276904" ost="true">
+				<OBJECT ID="28555404p29604909p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Stack Funeral Homes
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590807p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Steve Gueta
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590707p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Agency Prod
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8090846" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Chhavik 04SEP
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31902446" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{"MONETARY_AMOUNT_VALUE":"0","DECIMAL_MARK":".","NEGATIVE_AMOUNT_STYLE_NAME":"Parentheses","CURRENCY_SYMBOL_SHORT":"$","DEFAULT_AMOUNT_FORMAT":"fmL999G999G999G999D00","DIGIT_GROUP_SEPARATOR":",","CURRENCY_CODE":"USD"}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211636" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						2805
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="504" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						20170131000100
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8146746" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="T" ost="true">
+					<VALUE>
+						Stack Funeral Homes
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="27360105p29253414p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Stack Funeral Homes     
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Stack Funeral Homes : Generic Commercial Package Policy : 01/31/2017 : 01/31/2018
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="210153" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						65
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31996746p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+			</OBJECT>
+		</OBJECT>
+	</OBJECT>
+	<OBJECT ID="28679903513" MASK="F" TYPE_DESCR="Customer" TYPE_ID="12" ost="true">
+		<OBJECT ID="28679905513" MASK="F" TYPE_DESCR="QuoteTransaction" TYPE_ID="2356809" ost="true">
+			<OBJECT ID="28679905713" MASK="F" TYPE_DESCR="PolicyTransactionPolicy" TYPE_ID="2276904" ost="true">
+				<OBJECT ID="28555404p29604909p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Sa Ar
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590807p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Steve Gueta
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590707p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Sam Solanki
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8090846" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Areva Pvt. Ltd.
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31902446" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{"MONETARY_AMOUNT_VALUE":"0","DECIMAL_MARK":".","NEGATIVE_AMOUNT_STYLE_NAME":"Parentheses","CURRENCY_SYMBOL_SHORT":"$","DEFAULT_AMOUNT_FORMAT":"fmL999G999G999G999D00","DIGIT_GROUP_SEPARATOR":",","CURRENCY_CODE":"USD"}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211636" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						57405
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="504" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						20170120000100
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8146746" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="T" ost="true">
+					<VALUE>
+						Sa Ar
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="27360105p29253414p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Sa Ar    
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Sa Ar : Generic Personal Auto : 01/20/2017 : 01/20/2018
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="210153" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						65
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31996746p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+			</OBJECT>
+		</OBJECT>
+	</OBJECT>
+	<OBJECT ID="28680409313" MASK="F" TYPE_DESCR="Customer" TYPE_ID="12" ost="true">
+		<OBJECT ID="28680411313" MASK="F" TYPE_DESCR="QuoteTransaction" TYPE_ID="2356809" ost="true">
+			<OBJECT ID="28680411513" MASK="F" TYPE_DESCR="PolicyTransactionPolicy" TYPE_ID="2276904" ost="true">
+				<OBJECT ID="28555404p29604909p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Test Test
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590807p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Steve Gueta
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590707p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Sam Solanki
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8090846" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Areva Pvt. Ltd.
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31902446" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{"MONETARY_AMOUNT_VALUE":"0","DECIMAL_MARK":".","NEGATIVE_AMOUNT_STYLE_NAME":"Parentheses","CURRENCY_SYMBOL_SHORT":"$","DEFAULT_AMOUNT_FORMAT":"fmL999G999G999G999D00","DIGIT_GROUP_SEPARATOR":",","CURRENCY_CODE":"USD"}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211636" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						57405
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="504" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						20170120000100
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8146746" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="T" ost="true">
+					<VALUE>
+						Test Test
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="27360105p29253414p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Test Test    
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Test Test : Generic Personal Auto : 01/20/2017 : 01/20/2018
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="210153" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						65
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31996746p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+			</OBJECT>
+		</OBJECT>
+	</OBJECT>
+	<OBJECT ID="28680592113" MASK="F" TYPE_DESCR="Customer" TYPE_ID="12" ost="true">
+		<OBJECT ID="28680594113" MASK="F" TYPE_DESCR="QuoteTransaction" TYPE_ID="2356809" ost="true">
+			<OBJECT ID="28680594313" MASK="F" TYPE_DESCR="PolicyTransactionPolicy" TYPE_ID="2276904" ost="true">
+				<OBJECT ID="28555404p29604909p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Paul HewsonDontTouchLarge
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590807p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Steve Gueta
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590707p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Agency Producer
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8090846" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						ABC pvt. Ltd.
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31902446" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{"MONETARY_AMOUNT_VALUE":"0","DECIMAL_MARK":".","NEGATIVE_AMOUNT_STYLE_NAME":"Parentheses","CURRENCY_SYMBOL_SHORT":"$","DEFAULT_AMOUNT_FORMAT":"fmL999G999G999G999D00","DIGIT_GROUP_SEPARATOR":",","CURRENCY_CODE":"USD"}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211636" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						2805
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="504" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						20170120000100
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8146746" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="T" ost="true">
+					<VALUE>
+						Paul HewsonDontTouchLarge
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="27360105p29253414p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Paul HewsonDontTouchLarge    
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Paul HewsonDontTouchLarge : Generic Commercial Package Policy : 01/20/2017 : 01/20/2018
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="210153" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						15802
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31996746p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+			</OBJECT>
+		</OBJECT>
+	</OBJECT>
+	<OBJECT ID="28681403513" MASK="F" TYPE_DESCR="Customer" TYPE_ID="12" ost="true">
+		<OBJECT ID="28681405513" MASK="F" TYPE_DESCR="QuoteTransaction" TYPE_ID="2356809" ost="true">
+			<OBJECT ID="28681405713" MASK="F" TYPE_DESCR="PolicyTransactionPolicy" TYPE_ID="2276904" ost="true">
+				<OBJECT ID="28555404p29604909p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Paul HewsonDontTouchTree
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590807p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Steve Gueta
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590707p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Agency Producer
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8090846" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						ABC pvt. Ltd.
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31902446" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{"MONETARY_AMOUNT_VALUE":"0","DECIMAL_MARK":".","NEGATIVE_AMOUNT_STYLE_NAME":"Parentheses","CURRENCY_SYMBOL_SHORT":"$","DEFAULT_AMOUNT_FORMAT":"fmL999G999G999G999D00","DIGIT_GROUP_SEPARATOR":",","CURRENCY_CODE":"USD"}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211636" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						2805
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="504" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						20170120000100
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8146746" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="T" ost="true">
+					<VALUE>
+						Paul HewsonDontTouchTree
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="27360105p29253414p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Paul HewsonDontTouchTree    
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Paul HewsonDontTouchTree : Generic Commercial Package Policy : 01/20/2017 : 01/20/2018
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="210153" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						65
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31996746p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+			</OBJECT>
+		</OBJECT>
+	</OBJECT>
+	<OBJECT ID="28685904413" MASK="F" TYPE_DESCR="Customer" TYPE_ID="12" ost="true">
+		<OBJECT ID="28685906413" MASK="F" TYPE_DESCR="QuoteTransaction" TYPE_ID="2356809" ost="true">
+			<OBJECT ID="28685906613" MASK="F" TYPE_DESCR="PolicyTransactionPolicy" TYPE_ID="2276904" ost="true">
+				<OBJECT ID="28555404p29604909p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Dark Brothers Funeral Homes
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590807p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Steve Gueta
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590707p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Agency Prod
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8090846" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Chhavik 04SEP
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31902446" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{"MONETARY_AMOUNT_VALUE":"0","DECIMAL_MARK":".","NEGATIVE_AMOUNT_STYLE_NAME":"Parentheses","CURRENCY_SYMBOL_SHORT":"$","DEFAULT_AMOUNT_FORMAT":"fmL999G999G999G999D00","DIGIT_GROUP_SEPARATOR":",","CURRENCY_CODE":"USD"}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211636" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						2805
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="504" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						20170131000100
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8146746" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="T" ost="true">
+					<VALUE>
+						Dark Brothers Funeral Homes
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="27360105p29253414p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Dark Brothers Funeral Homes     
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Dark Brothers Funeral Homes : Generic Commercial Package Policy : 01/31/2017 : 01/31/2018
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="210153" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						65
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31996746p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+			</OBJECT>
+		</OBJECT>
+	</OBJECT>
+	<OBJECT ID="28686929713" MASK="F" TYPE_DESCR="Customer" TYPE_ID="12" ost="true">
+		<OBJECT ID="28686931713" MASK="F" TYPE_DESCR="QuoteTransaction" TYPE_ID="2356809" ost="true">
+			<OBJECT ID="28686931913" MASK="F" TYPE_DESCR="PolicyTransactionPolicy" TYPE_ID="2276904" ost="true">
+				<OBJECT ID="28555404p29604909p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Zarilly Funeral Homes
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590807p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Steve Gueta
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="26590707p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Agency Prod
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8090846" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Chhavik 04SEP
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31902446" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{"MONETARY_AMOUNT_VALUE":"0","DECIMAL_MARK":".","NEGATIVE_AMOUNT_STYLE_NAME":"Parentheses","CURRENCY_SYMBOL_SHORT":"$","DEFAULT_AMOUNT_FORMAT":"fmL999G999G999G999D00","DIGIT_GROUP_SEPARATOR":",","CURRENCY_CODE":"USD"}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211636" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						2805
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="504" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						20170130000100
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="8146746" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="T" ost="true">
+					<VALUE>
+						Zarilly Funeral Homes
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="27360105p29253414p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Zarilly Funeral Homes     
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						Zarilly Funeral Homes : Generic Commercial Package Policy : 01/30/2017 : 01/30/2018
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="210153" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<VALUE>
+						65
+					</VALUE>
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+				<OBJECT ID="31996746p211882" MASK="F" R_ONLY="T" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+					<MD_VALUE_TAG>
+						{}
+					</MD_VALUE_TAG>
+				</OBJECT>
+			</OBJECT>
+		</OBJECT>
+	</OBJECT>
+	<OBJECT ID="28689902013" MASK="F" TYPE_DESCR="UserSession" TYPE_ID="310" ost="true">
+		<OBJECT ID="27836656802" MASK="F" TYPE_DESCR="List" TYPE_ID="345" ost="true">
+			<OBJECT ID="210133" MASK="F" R_ONLY="F" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+				<MD_VALUE_TAG>
+					{}
+				</MD_VALUE_TAG>
+			</OBJECT>
+			<OBJECT ID="31917801" MASK="F" R_ONLY="F" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+				<DISPLAY_VALUE_TAG>
+					{"BV_VALUE":["","","","","","  44,815,316.28","","","","",""]}
+				</DISPLAY_VALUE_TAG>
+				<MD_VALUE_TAG>
+					{}
+				</MD_VALUE_TAG>
+			</OBJECT>
+			<OBJECT ID="31917001" MASK="F" R_ONLY="F" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+				<MD_VALUE_TAG>
+					{}
+				</MD_VALUE_TAG>
+			</OBJECT>
+			<OBJECT ID="31814434" MASK="F" R_ONLY="F" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+				<MD_VALUE_TAG>
+					{}
+				</MD_VALUE_TAG>
+			</OBJECT>
+			<OBJECT ID="30169701" MASK="F" R_ONLY="F" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+				<VALUE>
+					28689902013
+				</VALUE>
+				<MD_VALUE_TAG>
+					{}
+				</MD_VALUE_TAG>
+			</OBJECT>
+			<OBJECT ID="29622801" MASK="F" R_ONLY="F" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+				<VALUE>
+					28689902013
+				</VALUE>
+				<MD_VALUE_TAG>
+					{}
+				</MD_VALUE_TAG>
+			</OBJECT>
+			<OBJECT ID="21857601" MASK="F" R_ONLY="F" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+				<VALUE>
+					14709
+				</VALUE>
+				<MD_VALUE_TAG>
+					{}
+				</MD_VALUE_TAG>
+			</OBJECT>
+			<OBJECT ID="211973" MASK="F" R_ONLY="F" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+				<MD_VALUE_TAG>
+					{}
+				</MD_VALUE_TAG>
+			</OBJECT>
+			<OBJECT ID="211341" MASK="F" R_ONLY="F" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+				<VALUE>
+					210602
+				</VALUE>
+				<MD_VALUE_TAG>
+					{}
+				</MD_VALUE_TAG>
+			</OBJECT>
+			<OBJECT ID="210430" MASK="F" R_ONLY="F" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+				<MD_VALUE_TAG>
+					{}
+				</MD_VALUE_TAG>
+			</OBJECT>
+			<OBJECT ID="210383" MASK="F" R_ONLY="F" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+				<VALUE>
+					2276904
+				</VALUE>
+				<MD_VALUE_TAG>
+					{}
+				</MD_VALUE_TAG>
+			</OBJECT>
+			<OBJECT ID="210382" MASK="F" R_ONLY="F" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+				<VALUE>
+					1000
+				</VALUE>
+				<MD_VALUE_TAG>
+					{}
+				</MD_VALUE_TAG>
+			</OBJECT>
+			<OBJECT ID="210381" MASK="F" R_ONLY="F" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+				<VALUE>
+					25
+				</VALUE>
+				<MD_VALUE_TAG>
+					{}
+				</MD_VALUE_TAG>
+			</OBJECT>
+			<OBJECT ID="210380" MASK="F" R_ONLY="F" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+				<VALUE>
+					1
+				</VALUE>
+				<MD_VALUE_TAG>
+					{}
+				</MD_VALUE_TAG>
+			</OBJECT>
+			<OBJECT ID="210376" MASK="F" R_ONLY="F" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+				<MD_VALUE_TAG>
+					{}
+				</MD_VALUE_TAG>
+			</OBJECT>
+			<OBJECT ID="210374" MASK="F" R_ONLY="F" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+				<MD_VALUE_TAG>
+					{}
+				</MD_VALUE_TAG>
+			</OBJECT>
+			<OBJECT ID="210373" MASK="F" R_ONLY="F" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+				<MD_VALUE_TAG>
+					{}
+				</MD_VALUE_TAG>
+			</OBJECT>
+			<OBJECT ID="210372" MASK="F" R_ONLY="F" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+				<MD_VALUE_TAG>
+					{}
+				</MD_VALUE_TAG>
+			</OBJECT>
+		</OBJECT>
+		<OBJECT ID="29439902" MASK="F" R_ONLY="F" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+			<VALUE>
+				101
+			</VALUE>
+			<MD_VALUE_TAG>
+				{}
+			</MD_VALUE_TAG>
+		</OBJECT>
+		<OBJECT ID="29265802" MASK="F" R_ONLY="F" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+			<MD_VALUE_TAG>
+				{}
+			</MD_VALUE_TAG>
+		</OBJECT>
+		<OBJECT ID="31803101" MASK="F" R_ONLY="F" TYPE_DESCR="BVAR" TYPE_ID="-1" VISIBLE="t" ost="true">
+			<VALUE>
+				1
+			</VALUE>
+			<MD_VALUE_TAG>
+				{}
+			</MD_VALUE_TAG>
+		</OBJECT>
+	</OBJECT>
+</OBJECT>

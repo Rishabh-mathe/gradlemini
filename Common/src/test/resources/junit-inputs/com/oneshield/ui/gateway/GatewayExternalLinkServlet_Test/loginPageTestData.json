@@ -1,0 +1,18 @@
+{
+	"params": {
+		"EOC_TYPE_ID": "99999999",
+		"EXCHANGE_ID": "1218",
+		"MT_LOCALE_ID": "101",
+		"OBJ_ID": "",
+		"PARTNER": "0",
+		"PWD": "u",
+		"SKIP_COOKIE": "true",
+		"TX_CTRL_CODE": "-1",
+		"TX_NAME": "2",
+		"USER_ID": "u"
+	},
+	"headers": {
+		"User-Agent": "MSIE",
+		"Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+	}
+}
